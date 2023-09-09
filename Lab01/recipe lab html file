@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>My Favorite Recipe</title>
+</head>
+<body>
+  <h1>Spam musubi Recipe</h1>
+  <h2>Erica Walker</h2>
+  <h3>Ingredients:</h3>
+  <ul>
+    <li>4 cups of cooked and seasoned sushi rice</li>
+    <li>8 sheets of nori (seaweed)</li>
+    <li>8 slices of Spam</li>
+    <li>1/2 cup soy sauce</li>
+    <li>1/2 cup sugar</li>
+    <li>1/4 cup mirin (Japanese rice wine)</li>
+    <li>1 teaspoon sesame seeds (optional)</li>
+  </ul>
+  <h3>Instructions:</h3>
+  <ol>
+    <li>In a small saucepan, combine soy sauce, sugar, and mirin. Heat over medium heat until the sugar is dissolved. Remove from heat and let it cool.</li>
+    <li>Cut each slice of Spam into 4 pieces. In a skillet, cook the Spam until crispy on both sides.</li>
+    <li>Place a piece of plastic wrap on a sushi rolling mat. Lay a sheet of nori, shiny side down, on the plastic wrap.</li>
+    <li>Wet your hands and grab a handful of sushi rice. Press the rice evenly onto the nori, leaving about 1 inch of nori at the top uncovered.</li>
+    <li>Place a piece of crispy Spam in the center of the rice, then drizzle some of the soy sauce mixture over it.</li>
+    <li>Roll the musubi tightly, using the sushi rolling mat. Moisten the exposed nori to seal the roll.</li>
+    <li>Repeat for the remaining ingredients.</li>
+    <li>Slice each musubi into bite-sized pieces and sprinkle with sesame seeds (if desired).</li>
+  </ol>
+  <p>Musubi is my favorite recipe because it combines the delicious flavors of crispy Spam, sweet and savory sauce, and perfectly seasoned sushi rice. It's a taste of Hawaii that I can't remind me of the times I was a kid on living on the island of Oahu.</p>
+  <p>For more amazing recipes, check out <a href="https://www.favfamilyrecipes.com/musubi/" target="_blank">this website</a>.</p>
+</body>
+
+</html>
